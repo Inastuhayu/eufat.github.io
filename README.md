@@ -1,11 +1,5 @@
-<<<<<<< HEAD
-eufat.github.com
-================
 
-Repository for my own GitHub pages.
-=======
-This is my personal Blog.
-================
 
-Personal blog.
->>>>>>> gh-pages
+This is my personal blog and website.
+-------------------------------------
+Thanks to visiting my repos, now open the [eufat.com](://eufat.com)
